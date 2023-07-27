@@ -1,0 +1,5 @@
+package com.iasys.operation.repository;
+
+public interface ProductRepository {
+
+}
